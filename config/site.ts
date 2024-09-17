@@ -16,10 +16,10 @@ export const siteConfig = {
     }
   ],
   links: {
-    github: "https://github.com/nextui-org/nextui",
+    github: "https://github.com/willsonantoine/ExcelGuru-AI.git",
     twitter: "https://twitter.com/getnextui",
-    docs: "https://nextui.org",
+    docs: "https://github.com/willsonantoine/ExcelGuru-AI/blob/main/README.md",
     discord: "https://discord.gg/9b6yyZKmH4",
-    sponsor: "https://patreon.com/jrgarciadev",
+    dev_profil: "https://github.com/willsonantoine",
   },
 };

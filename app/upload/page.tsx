@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react';
 import { Input, Button, Modal, Textarea, ModalHeader, ModalBody, ModalFooter } from '@nextui-org/react';
 import * as XLSX from 'xlsx';
@@ -228,7 +229,7 @@ export default function UploadExcelPage() {
               <tbody>
                 {data.map((row, rowIndex) => (
                   <tr key={rowIndex}>
-                    {row.map((cell, cellIndex) => (
+                    {row.map((cell:any, cellIndex:any) => (
                       <td key={cellIndex} className="px-6 py-3 border-b">{cell}</td>
                     ))}
                   </tr>

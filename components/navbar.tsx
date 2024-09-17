@@ -91,11 +91,11 @@ export const Navbar = () => {
             isExternal
             as={Link}
             className="text-sm font-normal text-default-600 bg-default-100"
-            href={siteConfig.links.sponsor}
-            startContent={<HeartFilledIcon className="text-danger" />}
+            href={siteConfig.links.dev_profil}
+            startContent={<GithubIcon className="text-danger" />}
             variant="flat"
           >
-            Sponsor
+            Dev Profil
           </Button>
         </NavbarItem>
       </NavbarContent>
