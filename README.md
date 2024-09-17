@@ -1,33 +1,28 @@
-# Next.js & NextUI Template
+# ExcelGuru-AI
 
-This is a template for creating applications using Next.js 14 (app directory) and NextUI (v2).
+**ExcelGuru-AI** est une application innovante de visualisation et d'analyse de données Excel. Utilisant Next.js 14 et NextUI, cette application vous permet de télécharger des fichiers Excel, d'analyser les données, de créer des graphiques modernes, et d'obtenir des recommandations basées sur les données fournies.
 
-[Try it on CodeSandbox](https://githubbox.com/nextui-org/next-app-template)
+[Essayez-le sur Vercel](https://excel-guru-ai-daaq.vercel.app)
 
-## Technologies Used
+## Technologies Utilisées
 
-- [Next.js 14](https://nextjs.org/docs/getting-started)
-- [NextUI v2](https://nextui.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Tailwind Variants](https://tailwind-variants.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [next-themes](https://github.com/pacocoursey/next-themes)
+- [Next.js 14](https://nextjs.org/docs/getting-started) – Framework pour React avec des fonctionnalités de rendu côté serveur et de génération de site statique.
+- [NextUI v2](https://nextui.org/) – Bibliothèque de composants UI moderne et élégante pour React.
+- [Tailwind CSS](https://tailwindcss.com/) – Framework CSS utilitaire pour un design rapide et réactif.
+- [Tailwind Variants](https://tailwind-variants.org) – Gestion des variantes pour Tailwind CSS.
+- [TypeScript](https://www.typescriptlang.org/) – Langage de programmation qui améliore JavaScript avec des types statiques.
+- [Framer Motion](https://www.framer.com/motion/) – Librairie d'animations pour React.
+- [next-themes](https://github.com/pacocoursey/next-themes) – Gestion des thèmes pour Next.js.
 
-## How to Use
+## Comment Utiliser
 
-### Use the template with create-next-app
+### Utiliser le modèle avec create-next-app
 
-To create a new project based on this template using `create-next-app`, run the following command:
+Pour créer un nouveau projet basé sur ce modèle avec `create-next-app`, exécutez la commande suivante :
 
 ```bash
 npx create-next-app -e https://github.com/nextui-org/next-app-template
 ```
-
-### Install dependencies
-
-You can use one of them `npm`, `yarn`, `pnpm`, `bun`, Example using `npm`:
-
 ```bash
 npm install
 ```
