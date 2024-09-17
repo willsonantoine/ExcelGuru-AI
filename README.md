@@ -2,6 +2,8 @@
 
 **ExcelGuru-AI** est une application innovante de visualisation et d'analyse de données Excel. Utilisant Next.js 14 et NextUI, cette application vous permet de télécharger des fichiers Excel, d'analyser les données, de créer des graphiques modernes, et d'obtenir des recommandations basées sur les données fournies.
 
+![Image de la page d'accueil](readme1.png)
+
 [Essayez-le sur Vercel](https://excel-guru-ai-daaq.vercel.app)
 
 ## Technologies Utilisées
@@ -21,7 +23,7 @@
 Pour créer un nouveau projet basé sur ce modèle avec `create-next-app`, exécutez la commande suivante :
 
 ```bash
-npx create-next-app -e https://github.com/nextui-org/next-app-template
+git clone https://github.com/willsonantoine/ExcelGuru-AI.git
 ```
 ```bash
 npm install
@@ -45,4 +47,4 @@ After modifying the `.npmrc` file, you need to run `pnpm install` again to ensur
 
 ## License
 
-Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
+Licensed under the [MIT license](https://github.com/willsonantoine/ExcelGuru-AI/blob/main/LICENSE).
